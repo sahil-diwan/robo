@@ -1,9 +1,15 @@
 # Tiny Url : Shorten that long url
 
 ## Application
-```Landing Page```
-<br/>
+<h3>Landing Page</h3>
 <img src="images/HomePage.JPG">
+
+<h3>Create Tiny Url</h3>
+<img src="images/CreateTinyUrlPage.JPG">
+<img src="images/CreateTinyUrl2.JPG">
+<img src="images/CreateTinyUrl3.JPG">
+
+
 
 ## Swagger
 <img src="images/Swagger1.JPG">
