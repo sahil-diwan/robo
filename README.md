@@ -36,8 +36,8 @@
 <img src="images/UpdateCardPage.JPG">
 
 <h3>MyCards Page</h3>
-<img src="images/AllCardsPage.JPG">
-<img src="images/UpdateCardPage.JPG">
+<img src="images/MyCardsPage.JPG">
+
 
 <h3>Group Page</h3>
 <img src="images/GroupPage.JPG">
