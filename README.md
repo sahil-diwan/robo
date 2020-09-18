@@ -1,6 +1,8 @@
 # Tiny Url : Shorten that long url
 
 ## Application
+```Landing Page```
+<br/>
 <img src="images/HomePage.JPG">
 
 ## Swagger
