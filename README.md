@@ -5,7 +5,10 @@
 <img src="images/HomePage.JPG">
 
 <h3>Create Tiny Url</h3>
-<img src="images/CreateTinyUrlPage.JPG">
+<img src="images/CreateTinyUrl2.JPG">
+<img src="images/CreateTinyUrl3.JPG">
+
+<h3>Home Page</h3>
 <img src="images/CreateTinyUrl2.JPG">
 <img src="images/CreateTinyUrl3.JPG">
 
