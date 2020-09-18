@@ -5,6 +5,6 @@
 <img src="images/cicd.jpg">
 
 ## Database Design
-<img src="images/cicd.jpg">
+<img src="images/dbdesign.JPG">
 
 
