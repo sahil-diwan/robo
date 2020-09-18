@@ -1,5 +1,12 @@
 # Tiny Url : Shorten that long url
 
+## CI CD Pipeline
+<img src="images/cicd.jpg">
+
+## Database Design
+<img src="images/dbdesign.JPG">
+
+
 ## Swagger
 <img src="images/Swagger1.JPG">
 <img src="images/Swagger2.JPG">
@@ -8,11 +15,6 @@
 <img src="images/Swagger5.JPG">
 <img src="images/Swagger6.JPG">
 
-## CI CD Pipeline
-<img src="images/cicd.jpg">
-
-## Database Design
-<img src="images/dbdesign.JPG">
 
 ## Application
 <h3>Landing Page</h3>
