@@ -1,3 +1,10 @@
-# robo
+# Tiny Url : Shorten that long url
 
-[<img src="images/cicd.jpg">](http://tinyurl-env.eba-dwqapphi.us-east-2.elasticbeanstalk.com/home)
+## CI CD Pipeline
+
+[<img src="images/cicd.jpg">]
+
+## Database Design
+
+<img src="images/DB Design.jpg">
+
