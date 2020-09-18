@@ -2,7 +2,7 @@
 
 ## CI CD Pipeline
 
-<img src="images/dbdesign.jpg">
+<img src="images/cicd.jpg">
 
 ## Database Design
 
