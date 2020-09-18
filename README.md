@@ -9,8 +9,8 @@
 <img src="images/CreateTinyUrl3.JPG">
 
 <h3>Home Page</h3>
-<img src="images/CreateTinyUrl2.JPG">
-<img src="images/CreateTinyUrl3.JPG">
+<img src="images/AllCardsPage.JPG">
+<img src="images/UpdateCardPage.JPG">
 
 
 
