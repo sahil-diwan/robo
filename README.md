@@ -2,9 +2,9 @@
 
 ## CI CD Pipeline
 
-[<img src="images/cicd.jpg">]
+<img src="images/dbdesign.jpg">
 
 ## Database Design
 
-<img src="images/DB Design.jpg">
+
 
